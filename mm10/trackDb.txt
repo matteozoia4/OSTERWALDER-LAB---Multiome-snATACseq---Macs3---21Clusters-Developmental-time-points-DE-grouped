@@ -1,0 +1,236 @@
+
+track Myeloid_progenitors_cells_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213587999fe0f5f47759/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 21 - Extra-cardiac : (MP)Myeloid_progenitors
+longLabel MP - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+    
+track RBC_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213561ad27984cf3b7db/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 20 - Extra-cardiac : (RBC)Red-blood-cells
+longLabel RBC - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track NCC_like_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354c402355918184d9/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 19 - Extra-cardiac : (NCC_like)Neural-crest-like 
+longLabel NCC-like - MACS3 - e09.5,e10.5,e11.5 GROUPED-ANALYSIS (Developmental time-points grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track TP_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355743b7d5d699ed03/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 18 - Extra-cardiac : (TP)Thyroid-primordium
+longLabel TP - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track PA_endo_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135de23f5afbc3db3a2/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 17 - Extra-cardiac : (PA_endo)Pharyngeal-arch-endoderm
+longLabel PA_endo - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track PA_ecto_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357936d4196a939b57/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 16 - Extra-cardiac : (PA_ecto)Pharyngeal-arch-ectoderm
+longLabel PA_ecto - e09.5,e10.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)   
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0
+
+
+track PaM_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c3f7c8c487f6095d/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 15 - Extra-cardiac : (PaM)Paraxial-mesenchime
+longLabel PaM - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+
+track PE_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f5f9ea96718e0d11/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm
+longLabel PE - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track SMC-FB_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213541128144795aff7c/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 13 - Cardiac : (SMC-FB)Smooth-muscle-cells-Fibroblasts
+longLabel SMC-FB - e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track EP_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135546eb061466e4866/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 12 - Cardiac : (EP)Epicardial
+longLabel EP - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track EndMT_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356d3a4a04835193e6/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 11 - Cardiac : (EndMT)Endocardial-to-mesenchymal-transition
+longLabel EndMT - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track EC_e_l_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213521695f680f1c3b49/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late
+longLabel EC-e-l - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track VEC_e_l_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355425c0d060c91f28/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial
+longLabel VEC-e-l - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track cNCC_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e4cc40f89b82e025/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 08 - Cardiac : (cNCC)Cardiac-neural-crest
+longLabel cNCC - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track CPM-OFT_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213577fd70138e8bcca7/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-tract
+longLabel CPM-OFT - e09.5,e10.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)   
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0
+
+
+track aSHF-OFT_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e7bd1efdf6d8400d/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-tract
+longLabel aSHF-OFT - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track pSHF_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d1c5fe93fabad34c/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 05 - Cardiac : (pSHF)Posterior-second-heart-field
+longLabel pSHF - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)    
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0       
+
+
+track SV_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135968f201beb821592/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 04 - Cardiac : (SV)Sinus-venosus
+longLabel SV - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)      
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0
+
+
+track AVC_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359fff825a29da3d6f/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 03 - Cardiac : (AVC)Atrio-ventricular-canal
+longLabel AVC - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)      
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0
+
+ 
+track aCM_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b4d328ab41d79385/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes
+longLabel aCM - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)      
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0
+
+
+track vCM_ATACseq_Multiome_GROUPED-PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213554dbe10c20327f2b/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes
+longLabel vCM - e09.5,e10.5,e11.5 (Macs3 DIFFERENTIALLY ENRICHED peaks / Developmental time-points are grouped)      
+type bigBed 3 +
+configurable on
+visibility dense
+color 0,0,0
+
+
+
+
+
+
